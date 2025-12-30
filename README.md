@@ -1,2 +1,2 @@
 # Python-learning-for-aiml
-Learning python for aim;
+Learning python for aiml
