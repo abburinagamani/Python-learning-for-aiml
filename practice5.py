@@ -1,5 +1,5 @@
-'''f=open("sample.txt","w")
-print(f.write("hello world"))
+'''f=open("sample.txt","r")
+print(f.read())
 f.close()
 
 #for delete files
